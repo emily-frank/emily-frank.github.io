@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpeg"
   bio              : "PhD Candidate in Political Science at DYNAMICS" # , Humboldt-Universität zu Berlin
   location         : "Berlin"
-  employer         : "Humboldt-Universität zu Berlin"
+  employer         : "Humboldt-Universität <br> zu Berlin"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "cornelius.erfort@hu-berlin.de"
