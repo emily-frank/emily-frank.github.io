@@ -178,13 +178,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  data:
     output: true
     permalink: /:collection/:path/
 
