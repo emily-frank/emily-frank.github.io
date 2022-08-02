@@ -83,10 +83,10 @@ author:
   name             : "Cornelius Erfort"
   avatar           : "profile_img_400x400.JPG"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Berlin"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "cornelius-erfort"
   google_plus      :
   keybase          :
   instagram        :
