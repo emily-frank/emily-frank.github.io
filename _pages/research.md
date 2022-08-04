@@ -16,6 +16,9 @@ author_profile: true
 
 2. **Still Concerned About Migration? How Does Welfare Use Shape Attitudes Towards Immigration in Germany?**<br>with [Hend Sallam](https://www.projekte.hu-berlin.de/de/migsoz/das-team)
 
+3. **Class Matters: The Role of Socioeconomic Status in Mediating Media Effects on Immigration Attitudes**<br>
+    *Presented at the 2022 DeZIM Conference*
+
 ## Work in progress:
 
 
