@@ -21,8 +21,4 @@ author_profile: true
 
 ## Work in progress:
 
-
-1. **Issue Competition between Elections**<br>with [Lukas F. Stoetzer](http://lukas-stoetzer.org/), and [Heike Klüver](http://heike-kluever.com/)
-
-
-1. **Buying Voter Support for Unpopular Policies: Evidence from 2022 German Nuclear Power Plants**<br>with [António Valentim](https://antoniovalentim.github.io/), and [Heike Klüver](http://heike-kluever.com/)
+1. **Bureaucrazy at the Jobcenter: The Impact of Administrative Burden on the Livelihoods of Refugees**
