@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral researcher at the Research Training Group "The Dynamics of Demography, Democratic Processes and Public Policy" (DYNAMICS) and a PhD candidate at the Hertie School. I am also a research associate at the Berlin Institute for Empirical Integration and Migration Research (BIM), which is part of the Humboldt University of Berlin.
+I am a doctoral researcher at the Research Training Group "The Dynamics of Demography, Democratic Processes and Public Policy" ([DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics)), which is jointly organized by the [Humboldt University Berlin](https://www.hu-berlin.de/en) and the [Hertie School](https://www.hertie-school.org/en/). I am also a research associate at the Berlin Institute for Empirical Integration and Migration Research ([BIM](https://www.bim.hu-berlin.de/en/bim-start)), which is part of the Humboldt University Berlin.
 
 My main interests are in immigration, the welfare state, and mixed methods. 
 
