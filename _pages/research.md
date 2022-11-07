@@ -20,4 +20,4 @@ author_profile: true
 
 ## Work in progress:
 
-1. **Bureaucrazy at the Jobcenter: The Impact of Administrative Burden on the Livelihoods of Refugees**
+1. **Doctoral Dissertation: The Impact of Administrative Burden on the Livelihoods of Refugees**
