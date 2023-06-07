@@ -13,7 +13,7 @@ I am a doctoral researcher at the Research Training Group "The Dynamics of Demog
 
 My main interests are in immigration, the welfare state, and mixed methods. 
 
-For my dissertation, which is supervised by [Anke Hassel](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/hassel), I analyze the experiences of refugees with Germany's welfare state bureaucracy. I focus on the administrative burdens refugees face when navigating the welfare system in their destination country, how welfare bureaucracies adapt to immigration, and how to approach these questions using both quantitative and qualitative methodologies.
+For my dissertation, which is supervised by first supervisor [Anke Hassel](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/hassel) and second supervisor [Markus Promberger](https://iab.de/en/employee/promberger-markus/), I analyze the experiences of refugees with Germany's welfare state bureaucracy. I focus on the administrative burdens refugees face when navigating the welfare system in their destination country, differential inclusion of refugees in the rights and benefits of the welfare state, and how to approach these questions using both quantitative and qualitative methodologies.
 
 For my work at BIM, I focus more on the role of public opinion in how the welfare state addresses immigration. I conduct quantitative research on determinants of welfare chauvinism as part of a project called [Migration and the Welfare State](https://www.projekte.hu-berlin.de/de/migsoz).
 
