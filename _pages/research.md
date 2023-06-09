@@ -33,3 +33,7 @@ Paper for the Migration & Sozialstaat project, combining quantitative text analy
 
 7. **Still Concerned About Migration? How Does Welfare Use Shape Attitudes Towards Immigration in Germany?**<br>
 Paper for the Migration & Sozialstaat project utilizing survey data to analyze welfare use and attitudes at the local district level. 
+
+## Other Publications ##
+
+1. **[Vulnerabilities Beyond Age - Filling the gaps in asylum hearing procedures for unaccompanied minors](https://population-europe.eu/files/documents/pb28_vulner_web_1.pdf)**, policy brief for the EU Horizon 2020 project [VULNER](https://www.vulner.eu/)
