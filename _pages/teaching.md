@@ -13,3 +13,7 @@ author_profile: true
 
 **Conducting Research with Interviews**
 * MA student workshop, Hertie School, Spring 2023
+
+**Intersectionality in Quantitative Methods**
+* Guest Lecturer
+* BA/MA Course "Queer and Feminist Issues in Methodologies," Spring 2023
