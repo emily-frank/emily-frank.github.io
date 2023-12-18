@@ -24,13 +24,13 @@ Paper for the Migration & Sozialstaat project, combining quantitative text analy
 
 ## Work in progress:
 
-2. **Refugees & Administrative Burden in German Welfare Offices**<br>
-Dissertation project comparing the administrative burdens faced by refugees of different nationalities in German welfare offices and the resources they mobilize to overcome these burdens, intersectional approach, draws on interviews.
+1. **Refugees & Administrative Burden in German Welfare Offices: an Intersectional Approach**<br>
+Dissertation project comparing the administrative burdens faced by refugees of different nationalities in German welfare offices and the resources they mobilize to overcome these burdens, draws on interviews.
 
-4. **Gendered Effects of the Delay of Deportation**<br>
+2. **Gendered Effects of the Delay of Deportation**<br>
 Dissertation project with Marianne Samaha (Freie Universität Berlin) demonstrating the gendered effects of the *Duldung* (delay of deportation) legal status & its implications for labor market engagement on refugees' sense of agency.
 
-5. **Still Concerned About Migration? How Does Welfare Use Shape Attitudes Towards Immigration in Germany?**<br>
+3. **Still Concerned About Migration? How Does Welfare Use Shape Attitudes Towards Immigration in Germany?**<br>
 Paper for the Migration & Sozialstaat project utilizing survey data to analyze welfare use and attitudes at the local district level. 
 
 ## Other Publications ##
