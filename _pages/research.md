@@ -13,10 +13,10 @@ author_profile: true
 
 ## Under review:
 
-1. **Legal Status and Refugees' Perceptions of Institutional Justice: The Role of Communication Quality**, with Anton Nivorozhkin (Institut für Arbeitsmarkt- und Berufsforschung, IAB)
+1. **Legal Status and Refugees' Perceptions of Institutional Justice: The Role of Communication Quality**, with Anton Nivorozhkin (Institut für Arbeitsmarkt- und Berufsforschung, IAB)<br>
 Disseration project demonstrating poorer experiences of procedural justice at bureaucratic agencies among refugees with an insecure legal status; interactions with street-level bureaucrats partially mediate the relationship between legal status and procedural justice. 
 
-2. **“A Normal Refugee”?: Civic Stratification and the Stratification of Belonging**
+2. **“A Normal Refugee”?: Civic Stratification and the Stratification of Belonging**<br>
 Dissertation project demonstrating how changing policy responses in Germany have led to the selective inclusion of refugees in social rights (civic stratification) and how these policies have impacted refugees' sense of belonging, drawing on interviews.
 
 3. **Penny for Your Thoughts: The Income Divide in Media Effects on Immigration Attitudes**<br>
@@ -24,13 +24,13 @@ Paper for the Migration & Sozialstaat project, combining quantitative text analy
 
 ## Work in progress:
 
-2. **Refugees & Administrative Burden in German Welfare Offices**
+2. **Refugees & Administrative Burden in German Welfare Offices**<br>
 Dissertation project comparing the administrative burdens faced by refugees of different nationalities in German welfare offices and the resources they mobilize to overcome these burdens, intersectional approach, draws on interviews.
 
-4. **Gendered Effects of the Delay of Deportation**
+4. **Gendered Effects of the Delay of Deportation**<br>
 Dissertation project with Marianne Samaha (Freie Universität Berlin) demonstrating the gendered effects of the *Duldung* (delay of deportation) legal status & its implications for labor market engagement on refugees' sense of agency.
 
-5. **Still Concerned About Migration? How Does Welfare Use Shape Attitudes Towards Immigration in Germany?**
+5. **Still Concerned About Migration? How Does Welfare Use Shape Attitudes Towards Immigration in Germany?**<br>
 Paper for the Migration & Sozialstaat project utilizing survey data to analyze welfare use and attitudes at the local district level. 
 
 ## Other Publications ##
