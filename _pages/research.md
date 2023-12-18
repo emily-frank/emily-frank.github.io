@@ -30,7 +30,7 @@ Dissertation project comparing the administrative burdens faced by refugees of d
 2. **Gendered Effects of the Delay of Deportation**<br>
 Dissertation project with Marianne Samaha (Freie Universität Berlin) demonstrating the gendered effects of the *Duldung* (delay of deportation) legal status & its implications for labor market engagement on refugees' sense of agency.
 
-3. **Still Concerned About Migration? How Does Welfare Use Shape Attitudes Towards Immigration in Germany?**<br>
+3. **Still Concerned About Migration? How Does Welfare Use Shape Attitudes Towards Immigration in Germany?** <br>
 Paper for the Migration & Sozialstaat project utilizing survey data to analyze welfare use and attitudes at the local district level. 
 
 ## Other Publications ##
