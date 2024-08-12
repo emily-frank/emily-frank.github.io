@@ -9,7 +9,11 @@ author_profile: true
 
 ## Peer-Reviewed Journal Publications:
 
-1. **[Determinants of Welfare Use of Immigrant Groups - Longitudinal Evidence from Germany](https://www.frontiersin.org/articles/10.3389/fsoc.2022.839352/full)**. Frontiers in Sociology, Migration and Society (7). doi: 10.3389/fsoc.2022.839352 <br>
+1. **[Determinants of Welfare Use of Immigrant Groups - Longitudinal Evidence from Germany](https://www.frontiersin.org/articles/10.3389/fsoc.2022.839352/full)** (2022). Frontiers in Sociology, Migration and Society (7). doi: 10.3389/fsoc.2022.839352 <br>
+
+## Book reviews: 
+
+1. **[Beyond their years: Unaccompanied minors and the social construction of categories](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=VBPtJPMAAAAJ&citation_for_view=VBPtJPMAAAAJ:d1gkVwhDpl0C)** (2023). Culture, Practice & Europeanization 8 (2), p. 264-266. doi: 10.5771/2566-7742-2023-2-264 <br>
 
 ## Under review:
 
@@ -20,19 +24,18 @@ Disseration project demonstrating poorer experiences of procedural justice at bu
 Dissertation project demonstrating how changing policy responses in Germany have led to the selective inclusion of refugees in social rights (civic stratification) and how these policies have impacted refugees' sense of belonging, drawing on interviews.
 
 3. **Penny for Your Thoughts: The Income Divide in Media Effects on Immigration Attitudes**<br>
-Paper for the Migration & Sozialstaat project, combining quantitative text analysis of newspaper content with regression analysis of public opinion data. Results demonstrate that high-income individuals, while they hold more positive immigration attitudes ovreall, are more likely to hold somewhat more negative attitudes at times of high media salience. 
+Paper for the Migration & Sozialstaat project, combining quantitative text analysis of newspaper content with regression analysis of public opinion data. Results demonstrate that high-income individuals, while they hold more positive immigration attitudes overall, are more likely to hold somewhat more negative attitudes at times of high media salience. 
 
-## Work in progress:
+4. **Paper Walls: Administrative Burden and the Unequal Inclusion of Refugees**<br>
+Dissertation project demonstrating how refugees with a precarious legal status in Germany experience systematically greater administrative burdens when accessing welfare state resources, resulting in differential inclusion in social rights. 
 
-1. **Refugees & Administrative Burden in German Welfare Offices: an Intersectional Approach**<br>
-Dissertation project comparing the administrative burdens faced by refugees of different nationalities in German welfare offices and the resources they mobilize to overcome these burdens, draws on interviews.
+5. **Not in My Backyard: Unraveling Local Dynamics of Welfare Chauvinism** <br>
+Paper for the Migration & Sozialstaat project utilizing survey data to analyze welfare use and attitudes at the local district level. Regression results demonstrate a relationship between refugee population size and attitudes, but no link between refugees' welfare use and attitudes.
 
-2. **Gendered Effects of the Delay of Deportation**<br>
-Dissertation project with Marianne Samaha (Freie Universität Berlin) demonstrating the gendered effects of the *Duldung* (delay of deportation) legal status & its implications for labor market engagement on refugees' sense of agency.
+## In progress: 
 
-3. **Still Concerned About Migration? How Does Welfare Use Shape Attitudes Towards Immigration in Germany?** <br>
-Paper for the Migration & Sozialstaat project utilizing survey data to analyze welfare use and attitudes at the local district level. 
+1. **A Causal Link Between Family Reunification and Mental Health**
 
-## Other Publications ##
+## Other Publications 
 
 1. **[Vulnerabilities Beyond Age - Filling the gaps in asylum hearing procedures for unaccompanied minors](https://population-europe.eu/files/documents/pb28_vulner_web_1.pdf)**, policy brief for the EU Horizon 2020 project [VULNER](https://www.vulner.eu/)
