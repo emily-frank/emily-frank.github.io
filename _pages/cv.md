@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Download a PDF version of my CV [<strong>here</strong>](/files/CV_2023_Lüneburg.pdf)
+Download a PDF version of my CV [<strong>here</strong>](/files/CV_2024_08.pdf)
 
 
