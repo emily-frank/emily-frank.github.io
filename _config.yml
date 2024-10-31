@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Emily Frank"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate in Social Sciences at DYNAMICS" # , Hertie School
+  bio              : "Postdoctoral Researcher" # , WZB Berlin Social Science Center
   location         : "Berlin"
-  employer         : "Hertie School"
+  employer         : "WZB Berlin Social Science Center"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "e.frank@phd.hertie-school.org"
+  email            : "emily.frank@wzb.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
