@@ -15,7 +15,7 @@ Differential inclusion in rights creates hierarchical levels of non-belonging, w
 2.  **[Legal Status and Refugees' Perceptions of Institutional Justice: The Role of Communication Quality](https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.13898)**, with Anton Nivorozhkin (Institut für Arbeitsmarkt- und Berufsforschung, IAB) (2024). *Public Administration Review*. doi: 10.1111/puar.13898<br>
 Refugees with an insecure legal status report poorer experiences of procedural justice at bureaucratic agencies; interactions with street-level bureaucrats partially mediate the relationship between legal status and procedural justice.
 
-3. **[Bureaucracy as Borders: Refugees’ Experiences of Citizenship at Government Offices](https://opus4.kobv.de/opus4-hsog/frontdoor/index/index/docId/5610)** (2024). <br>
+3. **[Bureaucracy as Borders: Refugees’ Experiences of Citizenship at Government Offices](https://opus4.kobv.de/opus4-hsog/frontdoor/index/index/docId/5610)** (2024), doctoral thesis, Hertie School. <br>
 
 4. **[Determinants of Welfare Use of Immigrant Groups - Longitudinal Evidence from Germany](https://www.frontiersin.org/articles/10.3389/fsoc.2022.839352/full)** (2022). *Frontiers in Sociology, Sec. Migration and Society* (7), Special Issue: ”The Integration Context of Refugees and Immigrants: Challenges
 and Opportunities in the Receiving Countries” (edited by Jasper Tjaden and Zerrin Salikutluk). doi: 10.3389/fsoc.2022.839352 <br>
