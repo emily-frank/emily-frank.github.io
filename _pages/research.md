@@ -9,7 +9,7 @@ author_profile: true
 
 ## Peer-Reviewed Journal Publications:
 
-1. **“Why it’s different?”: Hierarchies of (Non-) Belonging in German Refugee Categorizations** (2025) (recently accepted for publication at *Journal of Immigrant & Refugee Studies*).<br>
+1. **[“Why it’s different?”: Hierarchies of (Non-) Belonging in German Refugee Categorizations](https://www.tandfonline.com/doi/full/10.1080/15562948.2025.2529497)** (2025). *Journal of Immigrant & Refugee Studies.* doi: 10.1080/15562948.2025.2529497 <br>
 Differential inclusion in rights creates hierarchical levels of non-belonging, with the example of refugees' rights to access the labor market in Germany. 
 
 2.  **[Legal Status and Refugees' Perceptions of Institutional Justice: The Role of Communication Quality](https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.13898)**, with Anton Nivorozhkin (Institut für Arbeitsmarkt- und Berufsforschung, IAB) (2024). *Public Administration Review*. doi: 10.1111/puar.13898<br>
