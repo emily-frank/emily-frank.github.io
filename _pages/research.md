@@ -26,12 +26,12 @@ and Opportunities in the Receiving Countries” (edited by Jasper Tjaden and Zer
 
 ## Under review:
 1. **Paper Walls: Administrative Burden and the Unequal Inclusion of Refugees**<br>
-Dissertation project demonstrating how refugees with a precarious legal status in Germany experience systematically greater administrative burdens when accessing welfare state resources, resulting in differential inclusion in social rights.
+How does bureaucratic bordering contribute to differential inclusion? This qualitative project demonstrates that refugees with a precarious legal status in Germany experience systematically greater administrative burdens when accessing welfare state resources, resulting in differential inclusion in social rights.
 
 2. **Beyond Depressive Symptoms: Conceptualizing Social Suffering Among Displaced Syrians in Lebanon**, with Laura Hertner (Humboldt-Universität zu Berlin) and Dana Abdel-Fatah (Charité)<br>
 
 3. **Penny for Your Thoughts: The Income Divide in Media Effects on Immigration Attitudes** with Tim Müller (Humboldt-Universität zu Berlin)<br>
-Paper for the Migration & Sozialstaat project, combining quantitative text analysis of newspaper content with regression analysis of public opinion data. Results demonstrate that high-income individuals, while they hold more positive immigration attitudes overall, are more likely to hold somewhat more negative attitudes at times of high media salience. 
+How do the effects of media coverage of immigration on attitudes vary by socioeconomic status? This analysis combines quantitative text analysis of newspaper content with regression analysis of public opinion data. Results demonstrate that high-income individuals, while they hold more positive immigration attitudes overall, hold increasingly negative attitudes at times of high media salience. 
 
 ## In progress: 
 
