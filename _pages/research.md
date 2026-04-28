@@ -26,21 +26,20 @@ and Opportunities in the Receiving Countries” (edited by Jasper Tjaden and Zer
 
 ## Under review:
 1. **Paper Walls: Administrative Burden and the Unequal Inclusion of Refugees**<br>
-Dissertation project demonstrating how refugees with a precarious legal status in Germany experience systematically greater administrative burdens when accessing welfare state resources, resulting in differential inclusion in social rights. 
+Dissertation project demonstrating how refugees with a precarious legal status in Germany experience systematically greater administrative burdens when accessing welfare state resources, resulting in differential inclusion in social rights.
 
-2. **Penny for Your Thoughts: The Income Divide in Media Effects on Immigration Attitudes**<br>
+2. **Beyond Depressive Symptoms: Conceptualizing Social Suffering Among Displaced Syrians in Lebanon**, with Laura Hertner (Humboldt-Universität zu Berlin) and Dana Abdel-Fatah (Charité)<br>
+
+3. **Penny for Your Thoughts: The Income Divide in Media Effects on Immigration Attitudes** with Tim Müller (Humboldt-Universität zu Berlin)<br>
 Paper for the Migration & Sozialstaat project, combining quantitative text analysis of newspaper content with regression analysis of public opinion data. Results demonstrate that high-income individuals, while they hold more positive immigration attitudes overall, are more likely to hold somewhat more negative attitudes at times of high media salience. 
-
-3. **Not in My Backyard: Unraveling Local Dynamics of Welfare Chauvinism** <br>
-Paper for the Migration & Sozialstaat project utilizing survey data to analyze welfare use and attitudes at the local district level. Regression results demonstrate a relationship between refugee population size and attitudes, but no link between refugees' welfare use and attitudes.
 
 ## In progress: 
 
 1. **A Causal Link Between Receiving the Asylum Decision and Mental Health**, with Jan Paul Heisig (WZB)
    
-2. **Family Reunification and Mental Health**
-   
-3. **Multimorbidity of Immigrant Groups**, with Lara Bister and Alessandro Ferrara (WZB)
+2. **Multimorbidity of Immigrant Groups**, with Lara Bister and Alessandro Ferrara (WZB)
+
+3. **Beyond Symptom Checklists: Differential Sensitivity of PHQ and Feeling Broken and Destroyed Scale to Social and Political Stressors Among Syrian Refugees and Receiving Communities in Lebanon**, with Laura Hertner (Humboldt-Universität zu Berlin) and Dana Abdel-Fatah (Charité)
 
 ## Other Publications 
 
