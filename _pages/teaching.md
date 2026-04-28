@@ -9,7 +9,7 @@ author_profile: true
 
 **Full Courses**
 * "Migration, Borders and Race in Europe and Berlin", BA program FU-BEST, Free University Berlin, Spring 2026
-* "Mixed Methods Approaches to Migration and Health Inequalities, MA Sociology, Free University Berlin, Spring 2025
+* "Mixed Methods Approaches to Migration and Health Inequalities", MA Sociology, Free University Berlin, Spring 2025
 
 **Workshops**
 * "Introduction to Mixed Methods Research", PhD student workshop, Hertie School, Spring 2026
