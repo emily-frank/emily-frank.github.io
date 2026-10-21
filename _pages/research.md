@@ -9,15 +9,18 @@ author_profile: true
 
 ## Peer-Reviewed Journal Publications:
 
-1. **[“Why it’s different?”: Hierarchies of (Non-) Belonging in German Refugee Categorizations](https://www.tandfonline.com/doi/full/10.1080/15562948.2025.2529497)** (2025). *Journal of Immigrant & Refugee Studies.* doi: 10.1080/15562948.2025.2529497 <br>
+1. **[Beyond depressive symptoms: conceptualizing social suffering among displaced Syrians in Lebanon](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1844218/full)**, with Laura Hertner, Dana Abdel-Fatah, and Ulrike Kluge (2026). *Frontiers in Public Health, Sec. Public Mental Health*. doi: 10.3389/fpubh.2026.1844218<br>
+We conceptualize social suffering as a mental burden distinct from diagnostic categories and, using data on Syrians living in Lebanon, compare the novel feeling broken or destroyed scale (FBD) with a standard mental health screening instrument for depressive symptoms, namely the patient health questionnaire (PHQ).
+
+2. **[“Why it’s different?”: Hierarchies of (Non-) Belonging in German Refugee Categorizations](https://www.tandfonline.com/doi/full/10.1080/15562948.2025.2529497)** (2025). *Journal of Immigrant & Refugee Studies.* doi: 10.1080/15562948.2025.2529497 <br>
 Differential inclusion in rights creates hierarchical levels of non-belonging, with the example of refugees' rights to access the labor market in Germany. 
 
-2.  **[Legal Status and Refugees' Perceptions of Institutional Justice: The Role of Communication Quality](https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.13898)**, with Anton Nivorozhkin (Institut für Arbeitsmarkt- und Berufsforschung, IAB) (2024). *Public Administration Review*. doi: 10.1111/puar.13898<br>
+3.  **[Legal Status and Refugees' Perceptions of Institutional Justice: The Role of Communication Quality](https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.13898)**, with Anton Nivorozhkin (Institut für Arbeitsmarkt- und Berufsforschung, IAB) (2024). *Public Administration Review*. doi: 10.1111/puar.13898<br>
 Refugees with an insecure legal status report poorer experiences of procedural justice at bureaucratic agencies; interactions with street-level bureaucrats partially mediate the relationship between legal status and procedural justice.
 
-3. **[Bureaucracy as Borders: Refugees’ Experiences of Citizenship at Government Offices](https://opus4.kobv.de/opus4-hsog/frontdoor/index/index/docId/5610)** (2024), doctoral thesis, Hertie School. <br>
+4. **[Bureaucracy as Borders: Refugees’ Experiences of Citizenship at Government Offices](https://opus4.kobv.de/opus4-hsog/frontdoor/index/index/docId/5610)** (2024), doctoral thesis, Hertie School. <br>
 
-4. **[Determinants of Welfare Use of Immigrant Groups - Longitudinal Evidence from Germany](https://www.frontiersin.org/articles/10.3389/fsoc.2022.839352/full)** (2022). *Frontiers in Sociology, Sec. Migration and Society* (7), Special Issue: ”The Integration Context of Refugees and Immigrants: Challenges
+5. **[Determinants of Welfare Use of Immigrant Groups - Longitudinal Evidence from Germany](https://www.frontiersin.org/articles/10.3389/fsoc.2022.839352/full)** (2022). *Frontiers in Sociology, Sec. Migration and Society* (7), Special Issue: ”The Integration Context of Refugees and Immigrants: Challenges
 and Opportunities in the Receiving Countries” (edited by Jasper Tjaden and Zerrin Salikutluk). doi: 10.3389/fsoc.2022.839352 <br>
 
 ## Book reviews: 
@@ -28,10 +31,7 @@ and Opportunities in the Receiving Countries” (edited by Jasper Tjaden and Zer
 1. **Paper Walls: Administrative Burden and the Unequal Inclusion of Refugees**<br>
 How does bureaucratic bordering contribute to differential inclusion? This qualitative project demonstrates that refugees with a precarious legal status in Germany experience systematically greater administrative burdens when accessing welfare state resources, resulting in differential inclusion in social rights.
 
-2. **Beyond Depressive Symptoms: Conceptualizing Social Suffering Among Displaced Syrians in Lebanon**, with Laura Hertner (Humboldt-Universität zu Berlin) and Dana Abdel-Fatah (Charité)<br>
-Mental burden is largely conceptualized through mental illness, yet it can manifest beyond diagnostic categories. We contend that social suffering linked to social and political injustice requires separate consideration. We assess social suffering with the novel Feeling Broken and Destroyed scale (FBD) and compare it with a standard mental health screening instrument for depressive symptoms, namely the Patient Health Questionnaire (PHQ). We contend that both these complementary notions of social suffering and depressive symptoms measure separate, though related, aspects of mental burden and warrant attention. 
-
-3. **Penny for Your Thoughts: The Income Divide in Media Effects on Immigration Attitudes**, with Tim Müller (Humboldt-Universität zu Berlin)<br>
+2. **Penny for Your Thoughts: The Income Divide in Media Effects on Immigration Attitudes**, with Tim Müller (Humboldt-Universität zu Berlin)<br>
 How do the effects of media coverage of immigration on attitudes vary by socioeconomic status? This analysis combines quantitative text analysis of newspaper content with regression analysis of public opinion data. Results demonstrate that high-income individuals, while they hold more positive immigration attitudes overall, hold increasingly negative attitudes at times of high media salience. 
 
 ## In progress: 
@@ -44,4 +44,6 @@ How do the effects of media coverage of immigration on attitudes vary by socioec
 
 ## Other Publications 
 
-1. **[Vulnerabilities Beyond Age - Filling the gaps in asylum hearing procedures for unaccompanied minors](https://population-europe.eu/files/documents/pb28_vulner_web_1.pdf)**, policy brief for the EU Horizon 2020 project [VULNER](https://www.vulner.eu/)
+1. **[Die Last des Verfahrens: Was die psychische Gesundheit von Schutzsuchenden stärkt](https://www.econstor.eu/handle/10419/337097)**, with Jan Paul Heisig (2025). WZB-Mitteilungen: Quartalsheft für Sozialforschung.
+   
+2. **[Vulnerabilities Beyond Age - Filling the gaps in asylum hearing procedures for unaccompanied minors](https://population-europe.eu/files/documents/pb28_vulner_web_1.pdf)** (2020). Policy brief for the EU Horizon 2020 project [VULNER](https://www.vulner.eu/)
