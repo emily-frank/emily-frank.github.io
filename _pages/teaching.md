@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 **Full Courses**
-* "Migration, Borders and Race in Europe and Berlin", BA program FU-BEST, Free University Berlin, Spring 2026
+* "Migration, Borders and Race in Europe and Berlin", BA program FU-BEST, Free University Berlin, Spring 2026, Fall 2026
 * "Mixed Methods Approaches to Migration and Health Inequalities", MA Sociology, Free University Berlin, Spring 2025
 
 **Workshops**
